@@ -9,4 +9,4 @@ def length_of_last_word(stroka: str) -> int:
     return len(stroka.split()[-1])
 
 
-print(length_of_last_word('ghbdtn o fdf d fd ffffff                    '))
+print(length_of_last_word("   fly me   to   the moon  "))
